@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: Famtivity (www.famtivity.fun)<br>📚 I'm currently learning: The ins and out of software development<br>📫 How to reach me: lrenna.oct@gmail.com<br>🎲 Fun fact: I taught English in Japan for several years - 話しましょう!</p>
+<p align="left">🔭 I’m currently working on: Famtivity (www.famtivity.fun)<br>📚 I'm currently learning: Tailwind and Typescript <br>📫 How to reach me: lrenna.oct@gmail.com<br>🎲 Fun fact: I taught English in Japan for several years - 話しましょう!</p>
 
 ###
 
